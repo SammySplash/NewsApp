@@ -14,7 +14,7 @@ Breakdown by categories of news articles.
 # Clone this project
 
 Clone with HTTPS
-https://github.com/haerulmuttaqin/PopularNews.git
+https://github.com/SammySplash/NewsApp.git
 
 # For start
 
