@@ -16,6 +16,9 @@ Breakdown by categories of news articles.
 Clone with HTTPS
 https://github.com/SammySplash/NewsApp.git
 
+Clone with SSP
+git@github.com:SammySplash/NewsApp.git
+
 # For start
 
 Get your API key
