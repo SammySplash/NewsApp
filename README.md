@@ -16,7 +16,7 @@ Breakdown by categories of news articles.
 Clone with HTTPS
 https://github.com/SammySplash/NewsApp.git
 
-Clone with SSP
+Clone with SSH
 git@github.com:SammySplash/NewsApp.git
 
 # For start
